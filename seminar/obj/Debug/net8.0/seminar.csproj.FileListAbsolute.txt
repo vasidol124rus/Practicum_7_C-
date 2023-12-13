@@ -1,0 +1,15 @@
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\bin\Debug\net8.0\seminar.exe
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\bin\Debug\net8.0\seminar.deps.json
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\bin\Debug\net8.0\seminar.runtimeconfig.json
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\bin\Debug\net8.0\seminar.dll
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\bin\Debug\net8.0\seminar.pdb
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.AssemblyInfoInputs.cache
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.AssemblyInfo.cs
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.csproj.CoreCompileInputs.cache
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.sourcelink.json
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.dll
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\refint\seminar.dll
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.pdb
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\seminar.genruntimeconfig.cache
+C:\Users\vasek\Desktop\Учеба\Practicum_7_c#\seminar\obj\Debug\net8.0\ref\seminar.dll
